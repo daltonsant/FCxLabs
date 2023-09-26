@@ -1,0 +1,17 @@
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\bin\Debug\net7.0\FCxLabs.Infrastructure.deps.json
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\bin\Debug\net7.0\FCxLabs.Infrastructure.dll
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\bin\Debug\net7.0\FCxLabs.Infrastructure.pdb
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\bin\Debug\net7.0\FCxLabs.Core.dll
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\bin\Debug\net7.0\FCxLabs.Core.pdb
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\obj\Debug\net7.0\FCxLabs.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\obj\Debug\net7.0\FCxLabs.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\obj\Debug\net7.0\FCxLabs.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\obj\Debug\net7.0\FCxLabs.Infrastructure.AssemblyInfo.cs
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\obj\Debug\net7.0\FCxLabs.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\obj\Debug\net7.0\FCxLabs.Infrastructure.csproj.CopyComplete
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\obj\Debug\net7.0\FCxLabs.Infrastructure.dll
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\obj\Debug\net7.0\refint\FCxLabs.Infrastructure.dll
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\obj\Debug\net7.0\FCxLabs.Infrastructure.pdb
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\obj\Debug\net7.0\ref\FCxLabs.Infrastructure.dll
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\bin\Debug\net7.0\FCxLabs.Infrastructure.runtimeconfig.json
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Infrastructure\obj\Debug\net7.0\FCxLabs.Infrastructure.genruntimeconfig.cache

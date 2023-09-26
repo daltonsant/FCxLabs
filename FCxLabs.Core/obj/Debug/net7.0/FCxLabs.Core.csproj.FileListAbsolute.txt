@@ -1,0 +1,12 @@
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Core\bin\Debug\net7.0\FCxLabs.Core.deps.json
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Core\bin\Debug\net7.0\FCxLabs.Core.dll
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Core\bin\Debug\net7.0\FCxLabs.Core.pdb
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Core\obj\Debug\net7.0\FCxLabs.Core.csproj.AssemblyReference.cache
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Core\obj\Debug\net7.0\FCxLabs.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Core\obj\Debug\net7.0\FCxLabs.Core.AssemblyInfoInputs.cache
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Core\obj\Debug\net7.0\FCxLabs.Core.AssemblyInfo.cs
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Core\obj\Debug\net7.0\FCxLabs.Core.csproj.CoreCompileInputs.cache
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Core\obj\Debug\net7.0\FCxLabs.Core.dll
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Core\obj\Debug\net7.0\refint\FCxLabs.Core.dll
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Core\obj\Debug\net7.0\FCxLabs.Core.pdb
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Core\obj\Debug\net7.0\ref\FCxLabs.Core.dll

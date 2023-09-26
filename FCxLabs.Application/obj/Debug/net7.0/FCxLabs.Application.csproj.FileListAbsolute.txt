@@ -1,0 +1,15 @@
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Application\bin\Debug\net7.0\FCxLabs.Application.deps.json
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Application\bin\Debug\net7.0\FCxLabs.Application.dll
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Application\bin\Debug\net7.0\FCxLabs.Application.pdb
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Application\bin\Debug\net7.0\FCxLabs.Core.dll
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Application\bin\Debug\net7.0\FCxLabs.Core.pdb
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Application\obj\Debug\net7.0\FCxLabs.Application.csproj.AssemblyReference.cache
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Application\obj\Debug\net7.0\FCxLabs.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Application\obj\Debug\net7.0\FCxLabs.Application.AssemblyInfoInputs.cache
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Application\obj\Debug\net7.0\FCxLabs.Application.AssemblyInfo.cs
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Application\obj\Debug\net7.0\FCxLabs.Application.csproj.CoreCompileInputs.cache
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Application\obj\Debug\net7.0\FCxLabs.Application.csproj.CopyComplete
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Application\obj\Debug\net7.0\FCxLabs.Application.dll
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Application\obj\Debug\net7.0\refint\FCxLabs.Application.dll
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Application\obj\Debug\net7.0\FCxLabs.Application.pdb
+C:\Users\pesso\source\repos\FCxLabs\FCxLabs.Application\obj\Debug\net7.0\ref\FCxLabs.Application.dll
